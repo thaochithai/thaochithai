@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thaochithai
-- 👀 I’m interested in analyzing commercial data (B2C), especially e-business data
+- 👀 I’m interested in analyzing and visualizing data
 - 🌱 I’m currently learning SQL, Python, Power BI and Tableau
 - 😄 Call me Cheese!
 - ⚡ Fun fact: I make excel sheets for everything in my life
