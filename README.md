@@ -1,4 +1,4 @@
-- 👋 Hi, I'm TChi (@thaochithai)
+- 👋 Hi, I'm Chi (@thaochithai)
 - 🎓 Currently pursuing MSc in Information Management at KU Leuven
 - 📊 With Genuine interest in data analysis, visualization, and process optimization
 - 💼 And domain knowledge in e-commerce, finance, and supply chain
