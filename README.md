@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @thaochithai
-- 👀 I’m interested in analyzing and visualizing data
-- 🌱 I’m currently learning SQL, Python, Power BI and Tableau
-- 😄 Call me Cheese!
-- ⚡ Fun fact: I make excel sheets for everything in my life
+- 👋 Hi, I'm Thao Thai (@thaochithai)
+- 📊 Genuine interest in data analysis, visualization, and process optimization
+- 💼 With domain knowledge in e-commerce, finance, and supply chain
+- 🎓 Currently pursuing MSc in Information Management at KU Leuven
+- 🛠️ Love working with Python, SQL, Power BI, and Tableau to transform data into actionable insights
 
 <!---
 thaochithai/thaochithai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
