@@ -4,6 +4,7 @@
 - 📊 With genuine interest in data analysis, visualization, and process optimization
 - 💼 And domain knowledge in e-commerce, finance, and supply chain
 - 🛠️ Love working with Python, SQL, Power BI, and Tableau to transform data into actionable insights
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thaochithai) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@chiandbi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thaochi.thai.job@gmail.com) 
 
 ## Tech stack i'm using:
